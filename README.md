@@ -7,4 +7,4 @@ Space Coplexity :
 
 
                 
-Ak Sorting Algorithm Designed by me 
+Ak Sorting Algorithm Designed by Ahmad Hassan
